@@ -1,2 +1,4 @@
 # TBC-discord-bot
-add source code here then move to a open soruce platform for the team to work with 
+This is the base code for the discord bot,
+Currently just looks for certain phrases and responds to them, 
+Will be implementing more features soon
